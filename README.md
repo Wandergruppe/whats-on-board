@@ -16,3 +16,9 @@ We use this bot to take photos of our blackboard and upload them to our discord.
 
 ## Run
 Run the bot with `python3 main.py`
+
+## Contributers to this project
+1. [MarionHinkel](https://github.com/MarionHinkel)
+2. [mfloto](https://github.com/mfloto)
+3. [Nereuxofficial](https://github.com/Nereuxofficial)
+4. [Flippchen](https://github.com/Flippchen)
